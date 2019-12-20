@@ -1,2 +1,2 @@
 # newrepository
-By using git commands we can perform operations like addition,deletion and modification.
+Git is a version control system which is mainly used for collabration between the developers team.
